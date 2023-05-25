@@ -19,7 +19,6 @@
     <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-starter-gateway:4.0.4" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-starter:4.0.2" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-context:4.0.2" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework.security:spring-security-crypto:6.0.2" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-commons:4.0.2" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.security:spring-security-rsa:1.0.11.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.bouncycastle:bcpkix-jdk15on:1.69" level="project" />
@@ -36,9 +35,6 @@
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-webflux:3.0.5" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter:3.0.5" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot:3.0.5" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework:spring-context:6.0.7" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework:spring-aop:6.0.7" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework:spring-expression:6.0.7" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-autoconfigure:3.0.5" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-logging:3.0.5" level="project" />
     <orderEntry type="library" name="Maven: ch.qos.logback:logback-classic:1.4.6" level="project" />
@@ -73,12 +69,17 @@
     <orderEntry type="library" name="Maven: io.netty:netty-handler-proxy:4.1.90.Final" level="project" />
     <orderEntry type="library" name="Maven: io.netty:netty-codec-socks:4.1.90.Final" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-web:6.0.7" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework:spring-beans:6.0.7" level="project" />
-    <orderEntry type="library" name="Maven: io.micrometer:micrometer-observation:1.10.5" level="project" />
-    <orderEntry type="library" name="Maven: io.micrometer:micrometer-commons:1.10.5" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-webflux:6.0.7" level="project" />
     <orderEntry type="library" name="Maven: io.projectreactor:reactor-core:3.5.4" level="project" />
     <orderEntry type="library" name="Maven: org.reactivestreams:reactive-streams:1.0.4" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-actuator:3.0.5" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-actuator-autoconfigure:3.0.5" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-actuator:3.0.5" level="project" />
+    <orderEntry type="library" name="Maven: io.micrometer:micrometer-observation:1.10.5" level="project" />
+    <orderEntry type="library" name="Maven: io.micrometer:micrometer-commons:1.10.5" level="project" />
+    <orderEntry type="library" name="Maven: io.micrometer:micrometer-core:1.10.5" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.hdrhistogram:HdrHistogram:2.1.12" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.latencyutils:LatencyUtils:2.0.3" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:4.0.1" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-netflix-eureka-client:4.0.1" level="project" />
     <orderEntry type="library" name="Maven: org.apache.httpcomponents.client5:httpclient5:5.1.4" level="project" />
@@ -154,5 +155,14 @@
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework:spring-test:6.0.7" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.xmlunit:xmlunit-core:2.9.1" level="project" />
     <orderEntry type="library" name="Maven: org.projectlombok:lombok:1.18.26" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-security:3.0.5" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-aop:6.0.7" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.security:spring-security-web:6.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-expression:6.0.7" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.security:spring-security-config:5.7.7" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.security:spring-security-core:6.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.security:spring-security-crypto:6.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-beans:6.0.7" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-context:6.0.7" level="project" />
   </component>
 </module>
